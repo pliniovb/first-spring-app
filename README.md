@@ -1,10 +1,10 @@
 Learning basics of **Spring Boot** framework for **RESTful APIs** through "Tutorial Completo de Java Spring" tutorial by Fernanda Kipper (https://youtu.be/YY_hf0FOIcU?si=PP-mEJ4KuSA6pliR)
 
-**Dependecies Manager**:
+**Dependency Manager**:
 
   - Maven
 
-**Dependecies**:
+**Dependencies**:
 
   - Spring Boot DevTools 
   
