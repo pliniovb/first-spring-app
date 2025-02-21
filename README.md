@@ -12,6 +12,6 @@ Learning basics of **Spring Boot** framework for **RESTful APIs** through "Tutor
   
   - Lombok (Boilerplate generator)
 
-**Java Version**
+**Java Version**:
 
   - 21
